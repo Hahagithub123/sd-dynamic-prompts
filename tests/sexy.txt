@@ -1,11 +1,10 @@
-{2$$veiny big boobs|big_breasts_up},{2$$wide big hip|hip_up|wide_big_hip|collarbone|cleavage}
-{2$$veiny big boobs|big_breasts_up|wide big hip|hip_up|wide_big_hip},
+,BREAK (([veiny big boobs],[big_breasts_up],[wide big hip],[sexy_wide_thigh],[wide_thigh],[hip_up],[huge_wide_big_hip],[collarbone],[cleavage]))
+,BREAK ((veiny big boobs / big_breasts_up / wide big hip / sexy_wide_thigh / wide_thigh / hip_up / huge_wide_big_hip / collarbone / cleavage))
+,BREAK (([veiny big boobs],[big_breasts_up],[collarbone],[cleavage],[huge_ass],[hip_up],[breasts_up],[very_slim_waist],[sweat],[very_slim_waist]))
+,BREAK ((veiny big boobs / big_breasts_up / collarbone / cleavage / huge_ass / hip_up / breasts_up / very_slim_waist / sweat / very_slim_waist))
+,BREAK (huge and saggy breasts:1.4),(narrow waist:1.4),(slim thighs:1.6),(skinny legs:1.6),(super-model body:1.4),(serious eye:1.3)
 (([veiny big boobs],[big_breasts_up],[wide big hip],[sexy_wide_thigh],[wide_thigh],[hip_up],[huge_wide_big_hip],[collarbone],[cleavage]))
-{1$$veiny big boobs|big_breasts_up},{2$$wide big hip|hip_up|wide_big_hip|collarbone|cleavage}
-{1$$veiny big boobs|big_breasts_up|wide big hip|hip_up|wide_big_hip},
-{1$$veiny big boobs|big_breasts_up},{1$$wide big hip|hip_up|wide_big_hip|collarbone|cleavage}
-(([veiny big boobs],[big_breasts_up],[collarbone],[cleavage]))
-(([huge_ass],[hip_up],[breasts_up],[very_slim_waist],[sweat],[very_slim_waist]))
-{2$$veiny big boobs|big_breasts|breasts_up},{1$$super_gigantic_ass|huge_ass|hip_up},((sexy thigh,wide pelvic,thigh gaps,collarbone)),(((cleavage)))
-{1$$veiny big boobs|big_breasts|breasts_up},{1$$super_gigantic_ass|huge_ass|hip_up},((sexy thigh,wide pelvic,thigh gaps,collarbone)),(((cleavage)))
-{1$$veiny big boobs|big_breasts|breasts_up},{2$$super_gigantic_ass|huge_ass|hip_up},((sexy thigh,wide pelvic,thigh gaps,collarbone)),(((cleavage)))  
+((veiny big boobs / big_breasts_up / wide big hip / sexy_wide_thigh / wide_thigh / hip_up / huge_wide_big_hip / collarbone / cleavage))
+(([veiny big boobs],[big_breasts_up],[collarbone],[cleavage],[huge_ass],[hip_up],[breasts_up],[very_slim_waist],[sweat],[very_slim_waist]))
+((veiny big boobs / big_breasts_up / collarbone / cleavage / huge_ass / hip_up / breasts_up / very_slim_waist / sweat / very_slim_waist))
+(huge and saggy breasts:1.4),(narrow waist:1.4),(slim thighs:1.6),(skinny legs:1.6),(super-model body:1.4),(serious eye:1.3)
